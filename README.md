@@ -15,3 +15,5 @@ AWS OpsWorks for Puppet Enterprise servers are configured to run the newest vers
 
 __*Project*__: Deploy an OpsWorks for Chef Automate instance that talks to a server with Docker installed. The aim is to deploy a Docker database instance (Postgres), plus a Python instance (w/ Django) and deploy Swarm using Chef.
 
+
+Next: CloudFront
