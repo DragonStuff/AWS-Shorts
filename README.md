@@ -17,3 +17,5 @@ __*Project*__: Deploy an OpsWorks for Chef Automate instance that talks to a ser
 
 
 Next: CloudFront
+CloudFront:
+- Aaaaaahhhhhhhhhhhhh. It has a heap of problems. Security groups across zones? Hahaha.
